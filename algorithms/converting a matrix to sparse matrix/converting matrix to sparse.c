@@ -88,3 +88,4 @@ void create_sparse(int a[10][10],int row,int coloumn,term c[])
    for(i=0;i<=k;i++)  //printing triple form
         printf("%d\t%d\t%d\n",c[i].row,c[i].col,c[i].value);
 } 
+//c
